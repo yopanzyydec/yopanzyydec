@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Hu tao RPG",
+    "description": "Bot RPG",
+    "creator": "yopan",
+    "imageUrl": "https://files.catbox.moe/l8vp7a.jpg",
+    "buttonType": "buy",
+    "buttonUrl": "https://files.catbox.moe/0w418c.jpg"
+  },
+  {
+    "name": "Elaina BOT",
+    "description": "ElainaBOT",
+    "creator": "yopan",
+    "imageUrl": "https://img12.pixhost.to/images/506/570619212_rizzhosting.jpg",
+    "buttonType": "buy",
+    "buttonUrl": "https://img12.pixhost.to/images/506/570619212_rizzhosting.jpg",
+    "id": "ab7e1a36-b9cd-48bf-af7a-fc5db5af2ac4"
+  }
+]
